@@ -1,0 +1,91 @@
+/* src/Login.css */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    background-image: url(imgs.webp);
+    
+    
+    
+  }
+  
+  .login-form {
+    background: rgba(255,255,255,0.04);
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px(0, 0, 0, 0.1);
+    color: blue;
+    width: 350px;
+    border: 2px solid black;
+    font-weight: bold;
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(20px);
+    height: 65%;
+  }
+  
+  .login-form h2 {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    transform: translateY(-50%);
+    font-size: 16px;
+    pointer-events: none;
+    transition: 0.15s ease;
+    top: 50%;
+  }
+  
+  .form-group input {
+    width: 100%;
+    background: transparent;
+    border: 2px solid #ccc;
+    outline: none;
+    border-radius: 4px;
+    height: 40px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 0.75rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  .register{
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+  }
+  .forget{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 25px 0 35px 0;
+    color: white;
+  }
+  #remember{
+    accent-color: #fff;
+  }
+  .forget label{
+    display:flex;
+    align-items: center;
+  }
+  .forget label p{
+    margin-left: 8px;
+  }

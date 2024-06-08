@@ -7,16 +7,23 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-![Static Badge](https://img.shields.io/badge/STARS-3-red?style=flat-square)
-![Static Badge](https://img.shields.io/badge/ISSUES-3%200PEN-GREEN?style=flat-square)
-![Static Badge](https://img.shields.io/badge/LICENSE-MIT-blue?style=flat-square)
-![Static Badge](https://img.shields.io/badge/LINKEDIn-blue?style=flat-square)
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
   <h3 align="center">My-Project-README</h3>
+
   <p align="center">
     An awesome README  to my projects!
     <br />
@@ -52,8 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Full HD image](https://github.com/Dhanam2305/login-logout-form/assets/167000726/13342257-2a1c-4a22-ac29-25d201332ef0)
-
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 There are many great README on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -64,14 +70,7 @@ There are many great README on GitHub; however, I didn't find one that really su
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 
-![Static Badge](https://img.shields.io/badge/REACT%20-blue?style=for-the-badge&logo=react&labelColor=black)
-
-
-<br>
-For Styles <br>
-![Static Badge](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css&logoColor=black&logoSize=2)
-
-
+* [![React][React.js]][React-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -163,6 +162,13 @@ Project Link: [https://github.com/Dhanam23_05/login-logout-form](https://github.
 * [Img Shields](https://shields.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+https://img.shields.io/badge/LICENSE-MIT-blue
+https://img.shields.io/badge/STARS-2-BLUE
+![Static Badge](https://img.shields.io/badge/ISSUES-3%20OPEN-yellow)
+https://img.shields.io/badge/REACT-black
 
 
 
