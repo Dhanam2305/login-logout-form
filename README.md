@@ -19,10 +19,7 @@
 <br />
 <div align="center">
   
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">My-Project-README</h3>
+<h3 align="center">My-Project-README</h3>
 
   <p align="center">
     An awesome README  to my projects!
