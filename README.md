@@ -50,7 +50,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Full HD image](https://github.com/Dhanam2305/login-logout-form/assets/167000726/10f3e817-62cb-4cf2-bde8-4077a55faabe)
+
 
 There are many great README on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
