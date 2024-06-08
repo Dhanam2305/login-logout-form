@@ -7,24 +7,15 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
+![Static Badge](https://img.shields.io/badge/ISSUES-3%20OPEN-GREEN?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/LICENSE-MIT-BLUE?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/STARS-3-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/LInkedIn-blue?style=for-the-badge)
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">My-Project-README</h3>
-
-  <p align="center">
+ <p align="center">
     An awesome README  to my projects!
     <br />
     </p>
@@ -69,8 +60,11 @@ There are many great README on GitHub; however, I didn't find one that really su
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
+![Static Badge](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=react&logoSize=2&labelColor=black)
+<br>
+For Styles<br>
+![Static Badge](https://img.shields.io/badge/CSS-rose?style=for-the-badge&logoSize=2)
 
-* [![React][React.js]][React-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -164,11 +158,6 @@ Project Link: [https://github.com/Dhanam23_05/login-logout-form](https://github.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-https://img.shields.io/badge/LICENSE-MIT-blue
-https://img.shields.io/badge/STARS-2-BLUE
-![Static Badge](https://img.shields.io/badge/ISSUES-3%20OPEN-yellow)
-https://img.shields.io/badge/REACT-black
 
 
 
