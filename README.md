@@ -64,7 +64,9 @@ There are many great README on GitHub; however, I didn't find one that really su
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 
-![Static Badge](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=react&logoColor=black&logoSize=2)
+![Static Badge](https://img.shields.io/badge/REACT%20-blue?style=for-the-badge&logo=react&labelColor=black)
+
+
 <br>
 For Styles <br>
 ![Static Badge](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css&logoColor=black&logoSize=2)
