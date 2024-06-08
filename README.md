@@ -7,14 +7,13 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+
+![Static Badge](https://img.shields.io/badge/STARS-3-red?style=flat-square)
+
 ![Static Badge](https://img.shields.io/badge/ISSUES-3%200PEN-GREEN?style=flat-square)
+![Static Badge](https://img.shields.io/badge/LICENSE-MIT-blue?style=flat-square)
+![Static Badge](https://img.shields.io/badge/LINKEDIn-blue?style=flat-square)
 
-
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
