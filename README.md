@@ -70,7 +70,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 ![Static Badge](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=react&logoColor=black&logoSize=2)
-For Styles
+<br>
+For Styles <br>
 ![Static Badge](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css&logoColor=black&logoSize=2)
 
 
