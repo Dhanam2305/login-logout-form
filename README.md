@@ -98,7 +98,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone 
+   git clone https://github.com/Dhanam2305/login-logout-form.git
    ```
 2. Install NPM packages
    ```sh
@@ -139,7 +139,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Dhanalakshmi - [@Dhanam23_05](Singamuthu118@gmail.com) - email@example.com
 
-Project Link: [https://github.com/Dhanam23_05/login-logout-form](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Dhanam23_05/login-logout-form]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
