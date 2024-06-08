@@ -9,19 +9,14 @@
 -->
 
 ![Static Badge](https://img.shields.io/badge/STARS-3-red?style=flat-square)
-
 ![Static Badge](https://img.shields.io/badge/ISSUES-3%200PEN-GREEN?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/LICENSE-MIT-blue?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/LINKEDIn-blue?style=flat-square)
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   
-<h3 align="center">My-Project-README</h3>
-
+  <h3 align="center">My-Project-README</h3>
   <p align="center">
     An awesome README  to my projects!
     <br />
@@ -166,13 +161,6 @@ Project Link: [https://github.com/Dhanam23_05/login-logout-form](https://github.
 * [Img Shields](https://shields.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-https://img.shields.io/badge/LICENSE-MIT-blue
-https://img.shields.io/badge/STARS-2-BLUE
-![Static Badge](https://img.shields.io/badge/ISSUES-3%20OPEN-yellow)
-https://img.shields.io/badge/REACT-black
 
 
 
